@@ -1,5 +1,12 @@
 # CTPL-practical
 
+Identify every place where user input enters the system including forms, APIs, uploads, and query parameters.
+Add strict validation and sanitization to prevent SQL injection, command injection, script injection, and unsafe file uploads. Reject invalid data and enforce strict input types.
+
+Add abuse protection to the application. Implement rate limiting for login attempts, API endpoints, account creation, and Al generation requests. Prevent bots or automated scripts from repeatedly calling endpoints or scraping data.
+
+
+
 Scan the entire project for secrets and credentials. Ensure API keys, database service keys, and tokens are never exposed in frontend code or committed to the repository. Move all secrets to secure environment variables and ensure they are only used on the server.
 
 
