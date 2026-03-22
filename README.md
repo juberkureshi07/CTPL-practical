@@ -19,3 +19,16 @@ Review all API endpoints and database queries. Ensure every request verifies the
 
 
 Act as a senior security engineer. Review the authentication system of this project and make it secure. Ensure passwords are securely hashed, sessions expire, email verification is enabled, password reset tokens expire, login attempts are rate limited, and authentication secrets are never exposed to the frontend. Refactor any insecure authentication logic.
+
+
+
+
+NOTE:
+ 1. Font – Times New Roman, 
+2. Font size – Heading 12 BOLD, Description – 12 normal, Chapter name- 14 Bold
+3. Page no. Acknowledgement to List of Abbreviations- in Roman( i, ii, iii, iv…..)
+                    Chapter 1 to conclusion- in numbers (1, 2, 3, 4…….)
+4. Header- Right corner- Chapter Name (Header starts from Chapter 1 )
+    Footer- Left corner- Name of Topic, Right corner- Page no
+5. Max 25 page with base paper
+
